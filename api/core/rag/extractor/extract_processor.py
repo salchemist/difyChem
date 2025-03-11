@@ -109,6 +109,7 @@ class ExtractProcessor:
 
                     if file_extension in {".xlsx", ".xls"}:
                         extractor = ExcelExtractor(file_path)
+                        # fixme:
                     elif file_extension == ".pdf":
                         extractor = PdfExtractor(file_path)
                     elif file_extension in {".md", ".markdown", ".mdx"}:
