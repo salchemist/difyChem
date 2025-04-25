@@ -264,8 +264,16 @@ class QueueMessageReplaceEvent(AppQueueEvent):
     QueueMessageReplaceEvent entity
     """
 
+    class MessageReplaceReason(StrEnum):
+        """
+        Reason for message replace event
+        """
+
+        OUTPUT_MODERATION = "output_moderation"
+
     event: QueueEvent = QueueEvent.MESSAGE_REPLACE
     text: str
+    reason: str
 
 
 class QueueRetrieverResourcesEvent(AppQueueEvent):
@@ -427,6 +435,7 @@ class QueueAgentLogEvent(AppQueueEvent):
     status: str
     data: Mapping[str, Any]
     metadata: Optional[Mapping[str, Any]] = None
+    node_id: str
 
 
 class QueueNodeRetryEvent(QueueNodeStartedEvent):
