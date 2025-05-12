@@ -1,0 +1,390 @@
+{
+    "search_metadata": {
+      "id": "search_5mpKN8l48W3iYj2zle3n1ZDx",
+      "status": "Success",
+      "created_at": "2025-05-05T11:55:35Z",
+      "request_time_taken": 0.58,
+      "parsing_time_taken": 0.01,
+      "total_time_taken": 0.59,
+      "request_url": "https://scholar.google.com/scholar?q=fatigue+threshold&hl=en&num=10",
+      "html_url": "https://www.searchapi.io/api/v1/searches/search_5mpKN8l48W3iYj2zle3n1ZDx.html",
+      "json_url": "https://www.searchapi.io/api/v1/searches/search_5mpKN8l48W3iYj2zle3n1ZDx"
+    },
+    "search_parameters": {
+      "engine": "google_scholar",
+      "q": "fatigue threshold",
+      "hl": "en",
+      "num": "10"
+    },
+    "search_information": {
+      "query_displayed": "fatigue threshold",
+      "total_results": 2280000,
+      "page": 1,
+      "time_taken_displayed": 0.05
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Near-threshold fatigue: a review",
+        "data_cid": "vnOJIyU1iXcJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0142112399000535",
+        "publication": "L Lawson, EY Chen, M Meshii - International Journal of Fatigue, 1999 - Elsevier",
+        "snippet": "… This paper reviews the status of the ‘threshold of fatigue’ and to a lesser extent its relation to … ‘fatigue threshold’ will refer only to the fatigue crack propagation threshold.) The other is the …",
+        "inline_links": {
+          "cited_by": {
+            "cites_id": "8613474195949056958",
+            "total": 201,
+            "link": "https://scholar.google.com/scholar?cites=8613474195949056958&as_sdt=2005&sciodt=0,5&hl=en"
+          },
+          "versions": {
+            "cluster_id": "8613474195949056958",
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cluster=8613474195949056958&hl=en&as_sdt=0,5"
+          },
+          "related_articles_link": "https://scholar.google.com/scholar?q=related:vnOJIyU1iXcJ:scholar.google.com/&scioq=fatigue+threshold&hl=en&as_sdt=0,5"
+        },
+        "resource": {
+          "name": "washington.edu",
+          "format": "PDF",
+          "link": "http://courses.washington.edu/mengr541/ramulu/541/notes/fatiguethreshold%20review.pdf"
+        }
+      },
+      {
+        "position": 2,
+        "title": "Critical power: an important fatigue threshold in exercise physiology",
+        "data_cid": "uCX9bzzjBxcJ",
+        "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5070974/",
+        "publication": "DC Poole, M Burnley, A Vanhatalo… - … and science in …, 2016 - pmc.ncbi.nlm.nih.gov",
+        "snippet": "… distant parameters such as the lactate threshold or V̇O 2 max, … CP may be regarded as a ‘fatigue threshold’ in the sense … into 1) the principal loci of fatigue development (central vs. …",
+        "inline_links": {
+          "cited_by": {
+            "cites_id": "1659544836425721272",
+            "total": 643,
+            "link": "https://scholar.google.com/scholar?cites=1659544836425721272&as_sdt=2005&sciodt=0,5&hl=en"
+          },
+          "versions": {
+            "cluster_id": "1659544836425721272",
+            "total": 14,
+            "link": "https://scholar.google.com/scholar?cluster=1659544836425721272&hl=en&as_sdt=0,5"
+          },
+          "related_articles_link": "https://scholar.google.com/scholar?q=related:uCX9bzzjBxcJ:scholar.google.com/&scioq=fatigue+threshold&hl=en&as_sdt=0,5"
+        },
+        "resource": {
+          "name": "nih.gov",
+          "format": "PDF",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5070974/pdf/nihms771295.pdf"
+        },
+        "authors": [
+          {
+            "name": "DC Poole",
+            "id": "FCL4MmkAAAAJ",
+            "link": "https://scholar.google.com/citations?user=FCL4MmkAAAAJ&hl=en&oi=sra"
+          },
+          {
+            "name": "M Burnley",
+            "id": "5f2NDOUAAAAJ",
+            "link": "https://scholar.google.com/citations?user=5f2NDOUAAAAJ&hl=en&oi=sra"
+          },
+          {
+            "name": "A Vanhatalo",
+            "id": "wpGN8lwAAAAJ",
+            "link": "https://scholar.google.com/citations?user=wpGN8lwAAAAJ&hl=en&oi=sra"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "Fatigue growth threshold of small cracks",
+        "data_cid": "_zt22MshepMJ",
+        "link": "https://link.springer.com/article/10.1007/BF00033345",
+        "publication": "K Tanaka, Y Nakai, M Yamashita - International Journal of fracture, 1981 - Springer",
+        "snippet": "… the assumption that the threshold condition is determined by … that the threshold stress estimated from the fatigue limit of the … When the threshold stress normalized by the fatigue limit of …",
+        "inline_links": {
+          "cited_by": {
+            "cites_id": "10626843430127811583",
+            "total": 547,
+            "link": "https://scholar.google.com/scholar?cites=10626843430127811583&as_sdt=2005&sciodt=0,5&hl=en"
+          },
+          "versions": {
+            "cluster_id": "10626843430127811583",
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cluster=10626843430127811583&hl=en&as_sdt=0,5"
+          },
+          "related_articles_link": "https://scholar.google.com/scholar?q=related:_zt22MshepMJ:scholar.google.com/&scioq=fatigue+threshold&hl=en&as_sdt=0,5"
+        },
+        "authors": [
+          {
+            "name": "K Tanaka",
+            "id": "bmouAUcAAAAJ",
+            "link": "https://scholar.google.com/citations?user=bmouAUcAAAAJ&hl=en&oi=sra"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "The two thresholds of fatigue behaviour",
+        "data_cid": "FX7EW5L4L_EJ",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-2695.1993.tb00129.x",
+        "publication": "KJ Miller - Fatigue & Fracture of Engineering Materials & …, 1993 - Wiley Online Library",
+        "snippet": "… This paper considers a wide range of surface defects that control fatigue limits and in so doing … fatigue threshold conditions; namely a “material threshold” and a “mechanical threshold”. …",
+        "inline_links": {
+          "cited_by": {
+            "cites_id": "17379382794534551061",
+            "total": 327,
+            "link": "https://scholar.google.com/scholar?cites=17379382794534551061&as_sdt=2005&sciodt=0,5&hl=en"
+          },
+          "versions": {
+            "cluster_id": "17379382794534551061",
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=17379382794534551061&hl=en&as_sdt=0,5"
+          },
+          "related_articles_link": "https://scholar.google.com/scholar?q=related:FX7EW5L4L_EJ:scholar.google.com/&scioq=fatigue+threshold&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 5,
+        "title": "A review of crack closure, fatigue crack threshold and related phenomena",
+        "data_cid": "PDpO_3qygoEJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/0921509394903514",
+        "publication": "AK Vasudeven, K Sadananda, N Louat - Materials Science and …, 1994 - Elsevier",
+        "snippet": "… In the second part of the review we provide a new rationale to account for the fatigue crack threshold behaviour without invoking any crack closure concepts. The topics covered are …",
+        "inline_links": {
+          "cited_by": {
+            "cites_id": "9332217619204160060",
+            "total": 490,
+            "link": "https://scholar.google.com/scholar?cites=9332217619204160060&as_sdt=2005&sciodt=0,5&hl=en"
+          },
+          "versions": {
+            "cluster_id": "9332217619204160060",
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=9332217619204160060&hl=en&as_sdt=0,5"
+          },
+          "related_articles_link": "https://scholar.google.com/scholar?q=related:PDpO_3qygoEJ:scholar.google.com/&scioq=fatigue+threshold&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 6,
+        "title": "A unified approach to mean stress effect on fatigue threshold conditions",
+        "data_cid": "p5rxAINfvcsJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/014211239595888N",
+        "publication": "D Kujawski, F Ellyin - International Journal of Fatigue, 1995 - Elsevier",
+        "snippet": "… ratio R) on the threshold conditions, ie fatigue limit and threshold stress intensity factor range… It is shown that the mean stress effect on the threshold conditions can be treated in a unified …",
+        "inline_links": {
+          "cited_by": {
+            "cites_id": "14680995376558873255",
+            "total": 138,
+            "link": "https://scholar.google.com/scholar?cites=14680995376558873255&as_sdt=2005&sciodt=0,5&hl=en"
+          },
+          "versions": {
+            "cluster_id": "14680995376558873255",
+            "total": 6,
+            "link": "https://scholar.google.com/scholar?cluster=14680995376558873255&hl=en&as_sdt=0,5"
+          },
+          "related_articles_link": "https://scholar.google.com/scholar?q=related:p5rxAINfvcsJ:scholar.google.com/&scioq=fatigue+threshold&hl=en&as_sdt=0,5"
+        },
+        "resource": {
+          "name": "academia.edu",
+          "format": "PDF",
+          "link": "https://www.academia.edu/download/115069071/0142-112328952995888-n20240521-1-57a4h4.pdf"
+        },
+        "authors": [
+          {
+            "name": "D Kujawski",
+            "id": "dTkqVaIAAAAJ",
+            "link": "https://scholar.google.com/citations?user=dTkqVaIAAAAJ&hl=en&oi=sra"
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "Fatigue crack growth and threshold measurements at very high frequencies",
+        "data_cid": "xZeHgjUbS3EJ",
+        "link": "https://www.tandfonline.com/doi/abs/10.1179/imr.1999.44.1.1",
+        "publication": "H Mayer - International materials reviews, 1999 - Taylor & Francis",
+        "snippet": "… of static torsional loads on fatigue crack growth at different R … fatigue properties of materials in the threshold region. Due to … .24 performed threshold studies under discontinuous fatigue …",
+        "inline_links": {
+          "cited_by": {
+            "cites_id": "8163648666176296901",
+            "total": 253,
+            "link": "https://scholar.google.com/scholar?cites=8163648666176296901&as_sdt=2005&sciodt=0,5&hl=en"
+          },
+          "versions": {
+            "cluster_id": "8163648666176296901",
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cluster=8163648666176296901&hl=en&as_sdt=0,5"
+          },
+          "related_articles_link": "https://scholar.google.com/scholar?q=related:xZeHgjUbS3EJ:scholar.google.com/&scioq=fatigue+threshold&hl=en&as_sdt=0,5"
+        }
+      },
+      {
+        "position": 8,
+        "title": "Effect of load ratio and maximum stress intensity on the fatigue threshold in Ti–6Al–4V",
+        "data_cid": "V7Q-bMK141gJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0013794400000990",
+        "publication": "BL Boyce, RO Ritchie - Engineering Fracture Mechanics, 2001 - Elsevier",
+        "snippet": "… As K max was increased such that the load ratios exceed R=0.8, the value of the fatigue threshold continued to decrease. This decrease in the fatigue threshold with increasing K max is …",
+        "inline_links": {
+          "cited_by": {
+            "cites_id": "6405162941695308887",
+            "total": 307,
+            "link": "https://scholar.google.com/scholar?cites=6405162941695308887&as_sdt=2005&sciodt=0,5&hl=en"
+          },
+          "versions": {
+            "cluster_id": "6405162941695308887",
+            "total": 10,
+            "link": "https://scholar.google.com/scholar?cluster=6405162941695308887&hl=en&as_sdt=0,5"
+          },
+          "related_articles_link": "https://scholar.google.com/scholar?q=related:V7Q-bMK141gJ:scholar.google.com/&scioq=fatigue+threshold&hl=en&as_sdt=0,5"
+        },
+        "resource": {
+          "name": "academia.edu",
+          "format": "PDF",
+          "link": "https://www.academia.edu/download/43079832/Effect_of_Load_Ratio_and_Maximum_Stress_20160225-29681-5ztms4.pdf"
+        },
+        "authors": [
+          {
+            "name": "BL Boyce",
+            "id": "53pzNQYAAAAJ",
+            "link": "https://scholar.google.com/citations?user=53pzNQYAAAAJ&hl=en&oi=sra"
+          },
+          {
+            "name": "RO Ritchie",
+            "id": "HcV_4D0AAAAJ",
+            "link": "https://scholar.google.com/citations?user=HcV_4D0AAAAJ&hl=en&oi=sra"
+          }
+        ]
+      },
+      {
+        "position": 9,
+        "title": "On generating fatigue crack growth thresholds",
+        "data_cid": "T0s9cnr4-jUJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S014211230200066X",
+        "publication": "SC Forth, JC Newman Jr, RG Forman - International journal of fatigue, 2003 - Elsevier",
+        "snippet": "… In this paper the authors develop fatigue crack growth threshold data for 7075-T73 aluminum … effects of small fatigue cracks on the fatigue crack growth threshold in this aluminum alloy. …",
+        "inline_links": {
+          "cited_by": {
+            "cites_id": "3889694432974162767",
+            "total": 175,
+            "link": "https://scholar.google.com/scholar?cites=3889694432974162767&as_sdt=2005&sciodt=0,5&hl=en"
+          },
+          "versions": {
+            "cluster_id": "3889694432974162767",
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cluster=3889694432974162767&hl=en&as_sdt=0,5"
+          },
+          "related_articles_link": "https://scholar.google.com/scholar?q=related:T0s9cnr4-jUJ:scholar.google.com/&scioq=fatigue+threshold&hl=en&as_sdt=0,5"
+        },
+        "resource": {
+          "name": "researchgate.net",
+          "format": "PDF",
+          "link": "https://www.researchgate.net/profile/Scott-Forth/publication/223478706_On_Generating_Fatigue_Crack_Growth_Thresholds/links/5df51abc299bf10bc35c722a/On-Generating-Fatigue-Crack-Growth-Thresholds.pdf"
+        },
+        "authors": [
+          {
+            "name": "SC Forth",
+            "id": "g27xaPUAAAAJ",
+            "link": "https://scholar.google.com/citations?user=g27xaPUAAAAJ&hl=en&oi=sra"
+          },
+          {
+            "name": "JC Newman Jr",
+            "id": "haJAsMAAAAAJ",
+            "link": "https://scholar.google.com/citations?user=haJAsMAAAAAJ&hl=en&oi=sra"
+          }
+        ]
+      },
+      {
+        "position": 10,
+        "title": "A method for estimating physical working capacity at the fatigue threshold (PWCFT)",
+        "data_cid": "8mhOpzmyGT4J",
+        "link": "https://www.tandfonline.com/doi/abs/10.1080/00140138708966008",
+        "publication": "HA Devries, MW Tichy, TJ Housh, KD Smyth… - Ergonomics, 1987 - Taylor & Francis",
+        "snippet": "… This large difference (at least in fit subjects) between PWC, and OBLA requires revision of our previous hypotheses regarding the relations among fatigue threshold, lactate threshold …",
+        "inline_links": {
+          "cited_by": {
+            "cites_id": "4474803665459112178",
+            "total": 117,
+            "link": "https://scholar.google.com/scholar?cites=4474803665459112178&as_sdt=2005&sciodt=0,5&hl=en"
+          },
+          "versions": {
+            "cluster_id": "4474803665459112178",
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cluster=4474803665459112178&hl=en&as_sdt=0,5"
+          },
+          "related_articles_link": "https://scholar.google.com/scholar?q=related:8mhOpzmyGT4J:scholar.google.com/&scioq=fatigue+threshold&hl=en&as_sdt=0,5"
+        }
+      }
+    ],
+    "related_searches": [
+      {
+        "query": "crack fatigue threshold",
+        "highlighted": [
+          "crack"
+        ],
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=1&q=crack+fatigue+threshold&qst=ib"
+      },
+      {
+        "query": "steel fatigue threshold",
+        "highlighted": [
+          "steel"
+        ],
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=2&q=steel+fatigue+threshold&qst=ib"
+      },
+      {
+        "query": "electromyographic fatigue threshold",
+        "highlighted": [
+          "electromyographic"
+        ],
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=3&q=electromyographic+fatigue+threshold&qst=ib"
+      },
+      {
+        "query": "fatigue threshold stress ratio",
+        "highlighted": [
+          "stress ratio"
+        ],
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=4&q=fatigue+threshold+stress+ratio&qst=ib"
+      },
+      {
+        "query": "fatigue threshold physical working capacity",
+        "highlighted": [
+          "physical working capacity"
+        ],
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=5&q=fatigue+threshold+physical+working+capacity&qst=ib"
+      },
+      {
+        "query": "alloy fatigue threshold",
+        "highlighted": [
+          "alloy"
+        ],
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=6&q=alloy+fatigue+threshold&qst=ib"
+      },
+      {
+        "query": "neuromuscular fatigue threshold",
+        "highlighted": [
+          "neuromuscular"
+        ],
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=7&q=neuromuscular+fatigue+threshold&qst=ib"
+      },
+      {
+        "query": "fatigue threshold stress intensity",
+        "highlighted": [
+          "stress intensity"
+        ],
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=8&q=fatigue+threshold+stress+intensity&qst=ib"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://scholar.google.com/scholar?start=10&q=fatigue+threshold&hl=en&as_sdt=0,5",
+      "other_pages": {
+        "2": "https://scholar.google.com/scholar?start=10&q=fatigue+threshold&hl=en&as_sdt=0,5",
+        "3": "https://scholar.google.com/scholar?start=20&q=fatigue+threshold&hl=en&as_sdt=0,5",
+        "4": "https://scholar.google.com/scholar?start=30&q=fatigue+threshold&hl=en&as_sdt=0,5",
+        "5": "https://scholar.google.com/scholar?start=40&q=fatigue+threshold&hl=en&as_sdt=0,5",
+        "6": "https://scholar.google.com/scholar?start=50&q=fatigue+threshold&hl=en&as_sdt=0,5",
+        "7": "https://scholar.google.com/scholar?start=60&q=fatigue+threshold&hl=en&as_sdt=0,5",
+        "8": "https://scholar.google.com/scholar?start=70&q=fatigue+threshold&hl=en&as_sdt=0,5",
+        "9": "https://scholar.google.com/scholar?start=80&q=fatigue+threshold&hl=en&as_sdt=0,5",
+        "10": "https://scholar.google.com/scholar?start=90&q=fatigue+threshold&hl=en&as_sdt=0,5"
+      }
+    }
+  }

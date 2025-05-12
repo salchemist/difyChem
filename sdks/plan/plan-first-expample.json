@@ -1,0 +1,3 @@
+{
+  "input_json": "```json\n{\n  \"plan\": {\n    \"status\": \"INITIAL\",\n    \"reasoning\": \"根据用户输入 '疲劳阈值+离子凝胶'，初步判断用户可能对具有高疲劳阈值的离子凝胶材料感兴趣。这里的疲劳阈值可能指的是材料在经历多次变形或应力循环后仍能保持性能的特性。因此，检索计划将围绕这些材料的性能、应用和研究进展展开。\",\n    \"steps\": [\n      \"1. 确定核心关键词：'fatigue threshold' 和 'ionic gel'，并考虑其同义词或相关术语。\",\n      \"2. 搜索 'fatigue threshold' 与 'ionic gel' 的组合，以找到相关研究。\",\n      \"3. 考虑加入 'mechanical properties' 或 'deformation' 作为细化，以进一步限定搜索范围。\"\n    ]\n  },\n  \"google_scholar_keywords\": [\n    \"\\\"fatigue threshold\\\" AND \\\"ionic gel\\\"\",\n    \"\\\"ionic gel\\\" AND \\\"mechanical properties\\\" AND \\\"fatigue\\\"\",\n    \"\\\"ionic gel\\\" AND \\\"deformation\\\" AND \\\"fatigue threshold\\\"\"\n  ]\n}\n```"
+}
