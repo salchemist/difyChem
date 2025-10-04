@@ -1,5 +1,6 @@
 import time
 import uuid
+from collections.abc import Sequence
 
 import requests
 from requests.auth import HTTPDigestAuth
@@ -139,7 +140,7 @@ class TidbService:
 
     @staticmethod
     def batch_update_tidb_serverless_cluster_status(
-        tidb_serverless_list: list[TidbAuthBinding],
+        tidb_serverless_list: Sequence[TidbAuthBinding],
         project_id: str,
         api_url: str,
         iam_url: str,
@@ -245,4 +246,4 @@ class TidbService:
             return cluster_infos
         else:
             response.raise_for_status()
-            return []  # FIXME for mypy, This line will not be reached as raise_for_status() will raise an exception
+            return []

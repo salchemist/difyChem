@@ -1,5 +1,4 @@
 import uuid
-from typing import Optional
 
 from core.app.app_config.entities import (
     DatasetEntity,
@@ -14,7 +13,7 @@ from services.dataset_service import DatasetService
 
 class DatasetConfigManager:
     @classmethod
-    def convert(cls, config: dict) -> Optional[DatasetEntity]:
+    def convert(cls, config: dict) -> DatasetEntity | None:
         """
         Convert model config to model config
 
@@ -138,14 +137,11 @@ class DatasetConfigManager:
         if not config.get("dataset_configs"):
             config["dataset_configs"] = {"retrieval_model": "single"}
 
+        if not isinstance(config["dataset_configs"], dict):
+            raise ValueError("dataset_configs must be of object type")
+
         if not config["dataset_configs"].get("datasets"):
             config["dataset_configs"]["datasets"] = {"strategy": "router", "datasets": []}
-
-        if not isinstance(config["dataset_configs"], dict):
-            raise ValueError("dataset_configs must be of object type")
-
-        if not isinstance(config["dataset_configs"], dict):
-            raise ValueError("dataset_configs must be of object type")
 
         need_manual_query_datasets = config.get("dataset_configs") and config["dataset_configs"].get(
             "datasets", {}
@@ -161,7 +157,7 @@ class DatasetConfigManager:
         return config, ["agent_mode", "dataset_configs", "dataset_query_variable"]
 
     @classmethod
-    def extract_dataset_config_for_legacy_compatibility(cls, tenant_id: str, app_mode: AppMode, config: dict) -> dict:
+    def extract_dataset_config_for_legacy_compatibility(cls, tenant_id: str, app_mode: AppMode, config: dict):
         """
         Extract dataset config for legacy compatibility
 
